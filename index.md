@@ -3,10 +3,6 @@ layout: default
 title: IITM BS Data Science — MLP Short Notes
 ---
 
-Quick revision notes for the **IITM BS DS MLP-Project** course.
-
-These notes focus on concise explanations, important concepts, comparisons, and code snippets useful for revision.
-
 ## Topics
 
 ### Data Preparation & Feature Engineering
